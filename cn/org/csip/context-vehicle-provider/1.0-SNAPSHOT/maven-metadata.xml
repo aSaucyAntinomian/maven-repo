@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.org.csip</groupId>
+  <artifactId>context-vehicle-provider</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181018.085146</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20181018085146</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20181018.085146-1</value>
+        <updated>20181018085146</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20181018.085146-1</value>
+        <updated>20181018085146</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
